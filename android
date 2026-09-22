@@ -1,0 +1,12 @@
+Elaine/
+├── android/
+│   ├── app/
+│   ├── gradle/
+│   ├── gradlew
+│   ├── build.gradle
+│   ├── settings.gradle
+│   └── ...
+├── public/
+├── .github/
+├── package.json
+└── capacitor.config.json
